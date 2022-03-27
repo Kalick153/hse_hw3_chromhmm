@@ -40,4 +40,6 @@
 
 ## Список всех запущенных команд
 
+[Google colab](https://colab.research.google.com/drive/1O_O0F2lQUBZyER_558TBYNJpGHLS04Fg?usp=sharing)
+
 ## Бонус
