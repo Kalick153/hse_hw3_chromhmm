@@ -51,8 +51,8 @@
 ## Картинки из UCSC GenomeBrowser 
 
 <img width="750" alt="dz1" src="https://user-images.githubusercontent.com/71277325/160297462-671be56f-eb5e-44c1-a6b2-9a054c6d3a98.PNG">
-
 <img width="765" alt="dz2" src="https://user-images.githubusercontent.com/71277325/160297605-78abf45d-cf4a-4fdd-96fa-0ad1867f1271.PNG">
+<img width="632" alt="dz3" src="https://user-images.githubusercontent.com/71277325/160298718-2ed3a52f-eaeb-4b0b-8a15-45fe5ff68231.PNG">
 
 
 ## Список всех запущенных команд
