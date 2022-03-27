@@ -20,8 +20,11 @@
 [Файл](https://raw.githubusercontent.com/Kalick153/hse_hw3_chromhmm/main/cellmarkfiletable.txt)
 
 ## Папка с выдачей ChromHMM
-[Папка]()
-Файл HepG2_10_dense.bed получился слишком большой. [Ссылка на гугл диск с ним](https://drive.google.com/file/d/1OnSCT-FMjdbfk5L2JzXE2HqLMAzhynF2/view?usp=sharing)
+[Папка](https://github.com/Kalick153/hse_hw3_chromhmm/tree/main/ChromHMM_output)
+
+Файл HepG2_10_dense.bed получился слишком большой.
+
+[Ссылка на гугл диск с ним](https://drive.google.com/file/d/1OnSCT-FMjdbfk5L2JzXE2HqLMAzhynF2/view?usp=sharing)
 
 ## Картинки из выдачи ChromHMM
 ![HepG2_10_RefSeqTES_neighborhood](https://user-images.githubusercontent.com/71277325/160294954-669bbc6b-7568-4cef-b1e9-5c92476a4f5b.png)
