@@ -2,6 +2,18 @@
 
 
 ## Список 10-ти гистоновых меток (и соотв имен файлов) , для которых был сделан анализ
+| Метка | Название файла |
+| ------------- | ------------- | 
+| H2AFZ |	wgEncodeBroadHistoneHepg2H2azStdAlnRep1.bam|
+| H3K4me1 |	wgEncodeBroadHistoneHepg2H3k04me1StdAlnRep1.bam|
+| H3K9me3 |	wgEncodeBroadHistoneHepg2H3k09me3AlnRep1.bam|
+| H3K4me2 |	wgEncodeBroadHistoneHepg2H3k4me2StdAlnRep1.bam|
+| H3K9ac | wgEncodeBroadHistoneHepg2H3k9acStdAlnRep1.bam|
+| H3K27ac |	wgEncodeBroadHistoneHepg2H3k27acStdAlnRep1.bam|
+| H3K36me3 |	wgEncodeBroadHistoneHepg2H3k36me3StdAlnRep1.bam|
+| H3K79me2 |	wgEncodeBroadHistoneHepg2H3k79me2StdAlnRep1.bam|
+| H4K20me1 |	wgEncodeBroadHistoneHepg2H4k20me1StdAlnRep1.bam|
+| H3K27me3 |	wgEncodeBroadHistoneHepg2H3k27me3StdAlnRep1.bam|
 
 ## Файл cellmarkfiletable.txt
 
