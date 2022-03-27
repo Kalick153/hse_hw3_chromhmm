@@ -36,7 +36,12 @@
 
 ## Табличка с номерами эпигенетических типов, их характерные эпигенетические метки и другие свойства, а также присвоенные им названия
 
-## Картинки из UCSC GenomeBrowser, показывающих различные участки генома и соответствующие эпигенетические типы 
+## Картинки из UCSC GenomeBrowser 
+
+<img width="750" alt="dz1" src="https://user-images.githubusercontent.com/71277325/160297462-671be56f-eb5e-44c1-a6b2-9a054c6d3a98.PNG">
+
+<img width="765" alt="dz2" src="https://user-images.githubusercontent.com/71277325/160297605-78abf45d-cf4a-4fdd-96fa-0ad1867f1271.PNG">
+
 
 ## Список всех запущенных команд
 
