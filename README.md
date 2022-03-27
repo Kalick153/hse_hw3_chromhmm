@@ -17,7 +17,7 @@
 
 ## Файл cellmarkfiletable.txt
 
-[Файл](#я-ссылка)
+[Файл](https://raw.githubusercontent.com/Kalick153/hse_hw3_chromhmm/main/cellmarkfiletable.txt)
 
 ## Картинки из выдачи ChromHMM
 ![HepG2_10_RefSeqTES_neighborhood](https://user-images.githubusercontent.com/71277325/160294954-669bbc6b-7568-4cef-b1e9-5c92476a4f5b.png)
